@@ -9,7 +9,7 @@ Getting Started
 StackScrollView is comprised of four classes, RootViewController,MenuViewFragment and StackScrollView and DataViewFragment .
 
 
-Description :-
+Description:
 ================================================
 
 -RootViewContoller , This is a launcher class in which we add the StackScrollView.Initially we have a parent root which is a FrameLayout , in that we add two child view namely LeftView and RightView.
