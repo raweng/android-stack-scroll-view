@@ -1,7 +1,7 @@
 Twitter Like StackScrollView In Android
 ===============================================================================================================================
 
-This StackScrollView is already available for iPad on GitHub, This was created by the mobile development team at raw engineering. Now here�s the android version of the same, from [raw engineering][].
+This StackScrollView is already available for iPad on GitHub, This was created by the mobile development team at raw engineering. Now here's the android version of the same, from [raw engineering][].
 
 Getting Started
 ==============================================
